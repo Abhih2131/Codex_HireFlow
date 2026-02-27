@@ -1,0 +1,11 @@
+node_modules
+apps/web/.next
+apps/api/.venv
+__pycache__
+*.pyc
+.env
+apps/api/.env
+apps/web/.env.local
+data/employee_master.xlsx
+api.log
+web.log
