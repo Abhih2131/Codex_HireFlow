@@ -1,0 +1,3 @@
+employee_id,name,email,bu,function,dept,location,band,manager_employee_id,is_active
+E0001,Super Admin,admin@workplaceai.local,Corporate,HR,People,Bangalore,B3,,TRUE
+E0002,Recruiter One,recruiter1@workplaceai.local,Engineering,Talent,Hiring,Pune,B2,E0001,TRUE
